@@ -12,3 +12,5 @@ run by right click and push run MASTER.py or
 terminal and write python MASTER.py
 
 pretty cool? yeah? 
+
+********Professionally made by a professional idiot 🧊********
